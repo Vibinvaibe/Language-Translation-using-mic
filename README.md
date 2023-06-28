@@ -2,7 +2,7 @@
 
 This code is a simple Python script that demonstrates the conversion of speech to text using the SpeechRecognition library and translates the recognized text into another language using the Google Translate API. The translated text is then converted back into speech using the gTTS (Google Text-to-Speech) library.
 
-#Dependencies
+# Dependencies
 Before running this code, make sure you have the following dependencies installed:
 
 SpeechRecognition (pip install SpeechRecognition)
